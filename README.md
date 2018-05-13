@@ -1,7 +1,7 @@
 # Super-Hangman
 A fun vocabulary building game with RPG elements in C++ console (windows)
 
-Demo:
+Demo:    
 ![gif-demo](https://lh3.googleusercontent.com/cJjQnRmaMxF2P8kh0Gx7gN1HdSL0RIV_pvHyK52qqeUcQj1ySP7c8Bf0FCpcUqXkbzYDQN2sOEAN "gif-demo")
 
 Description:
