@@ -9,6 +9,9 @@ void FHangman::NewGame(int Life, int Level)
 
 	// Set initial level to 1
 	this->Level = Level;
+
+	// Clear Misses vector
+	Misses.clear();
 }
 
 // Returns the name of the file according to the level of difficulty

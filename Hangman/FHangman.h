@@ -21,7 +21,7 @@
 
 // Computer fills the letter in the blanks if the players guess correctly
 
-// TODO Computer shows the player a list of letters already used -- taken out of scope, increased initial life to 20
+// Computer shows the player a list of letters already used -- taken out of scope, increased initial life to 20
 
 // Computer draws part of the "hangman" when the players guess wrong
 
