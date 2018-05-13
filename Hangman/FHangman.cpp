@@ -309,6 +309,11 @@ void FHangman::PlayGame()
 		{
 			bWin = true;
 			Level++;
+			if (Level == 21)
+			{
+				std::cout << "You broke my game. Let's start from Level 1!\n";
+				this->Level = 1;
+			}
 			GameUI(Life, Level, TempWord);
 			std::cout << "\nYou got it! The word is: " << ChosenWord << std::endl;
 
