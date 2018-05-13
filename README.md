@@ -2,7 +2,7 @@
 A fun vocabulary building game with RPG elements in C++ console (windows)
 
 Demo:    
-![gif-demo](https://lh3.googleusercontent.com/cJjQnRmaMxF2P8kh0Gx7gN1HdSL0RIV_pvHyK52qqeUcQj1ySP7c8Bf0FCpcUqXkbzYDQN2sOEAN "gif-demo")
+![gif-demo](https://lh3.googleusercontent.com/rZyFSKEIppVexv0MGAHhzlk2ESEQj1HHmYOrVcIzXzcZjsX2hCYX_lvxWksNRwcecoyERwyJoEx9 "gif-demo")
 
 Description:
 This project demonstrates the following programming skills/knowledge in the respective programming language:
